@@ -1,0 +1,8 @@
+Metric,Value
+Total station records,1282325.0
+Unique trains,3892.0
+Unique stations,4736.0
+Average arrival delay (minutes),32.9
+Median arrival delay (minutes),8.0
+Maximum arrival delay (minutes),4336.0
+Average departure delay (minutes),32.9
